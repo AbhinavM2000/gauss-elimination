@@ -4,7 +4,7 @@
 
 void main() {
   int i, j, k, n;
-  float A[20][20], c, x[10], s = 0.0;
+  float A[50][50], c, x[10], s = 0.0;
   printf("\nEnter the order of coefficient matrix: ");
   scanf("%d", & n);
   printf("\nEnter the augmented matrix row-wise:\n\n");
